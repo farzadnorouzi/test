@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  direction: ltr;
+}
+
+body{
+   font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #f2f2f2;
+ 
+}
+

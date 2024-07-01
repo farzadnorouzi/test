@@ -1,0 +1,18 @@
+.Gallery{
+    width: 5%;
+    height: 190px;
+    background-color: #333;
+    align-items: center;
+}
+
+.Gallery img{
+    padding-top: 30px;
+    width: 100%;
+    border-radius: .2rem ;
+}
+
+.Gallery img:hover{
+    border: solid #fff;
+    border-radius: .2rem;
+}
+

@@ -1,0 +1,24 @@
+.Header{
+    height: 25px;
+    background-color: rgb(52, 49, 63);
+}
+
+.Header ul{
+    display: flex;
+    padding-left: 15px;
+}
+
+.Header ul li{
+    padding-right: 20px;
+    color: #fff;
+}
+
+.Header ul li , a {
+    text-decoration: none;
+}
+
+
+.Header ul li:hover{
+    border: solid #fff;
+    border-radius: .2rem;
+}

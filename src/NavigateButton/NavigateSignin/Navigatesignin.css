@@ -1,0 +1,90 @@
+.Navigatesignin{
+    width: 30%;
+    height: 350px;
+    box-shadow: .5px .5px .5px .5px;
+    background-color: #fff;
+    border-radius: .2rem;
+    margin: 0px auto;
+    padding: 30px;
+}
+
+.logo img{
+    width: 10%;
+}
+
+.logo2{
+  margin:10px 450px;
+}
+
+
+.Navigatesignin h2{
+    margin-left: 30px;
+}
+
+
+
+.label{
+   text-align: center;
+   padding-top: 20px;
+}
+
+
+.Inputt{
+    width: 80%;
+    text-align: center;
+}
+
+
+.bttn{
+    text-align: center;
+}
+
+.bttn2{
+    width: 80%;
+    background-color: rgb(245, 245, 86);
+    border-radius: .2rem;
+    padding: 5px;
+}
+
+.select{
+    margin-top: 40px;
+   
+}
+
+.select2{
+    background-color: #fff;
+    color: #333;
+}
+
+.select2 option{
+   padding: 10px;
+}
+
+
+.Navigatesignin h6{
+    margin: 30px;
+}
+
+.createacount h5{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.amazonaccount{
+    text-align: center;
+}
+
+.amazonaccount2{
+    width:35%;
+    margin: 10px;
+    background-color: #f2f2f2;
+    border-radius: .2rem;
+}
+
+
+
+   
+
+
+
+

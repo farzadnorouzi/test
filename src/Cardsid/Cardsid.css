@@ -1,0 +1,53 @@
+.prdouct{
+    width: 100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    border-radius: .3rem;
+}
+
+.prdouct img{
+    width: 25%;
+    height: 500px;
+    border-radius: .3rem;
+    margin:2%;
+    object-fit:contain;
+}
+
+.prdouct1{
+    padding: 40px;
+}
+
+.starss{
+    padding: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.text22{
+    padding: 20px;
+}
+
+.prdouct h1{
+    color: red;
+}
+
+.prdouct h2{
+    text-align: center;
+}
+
+.slider-container{
+    width: 20%;
+    height: 100px;
+   
+    
+}
+
+
+
+
+
+
+
+

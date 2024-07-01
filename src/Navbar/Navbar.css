@@ -1,0 +1,41 @@
+.conteiner{
+    background-color: #000;
+    position: -webkit-sticky;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    z-index: 80;
+}
+
+nav{
+    display: flex;
+}
+
+.logoamazon{
+    width: 10%;
+    padding: 10px;
+    border-radius: .5rem;
+}
+
+.logoamazon:hover{
+    background-color: #fff;
+
+}
+
+.input{
+    width: 40%;
+    height: 30px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: .2rem;
+    justify-content: center;
+}
+
+.btn13{
+    background-color: #f2f2f2ff;
+    height: 32px;
+    margin-top: 11px;
+    border-radius: .2rem;
+    color: #000;
+}
+
